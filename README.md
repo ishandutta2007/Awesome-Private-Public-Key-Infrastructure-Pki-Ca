@@ -65,7 +65,7 @@ This repository tracks notable **commercial private PKI platforms** and **open-s
 
 ## 🔓 Open-Source GitHub Projects 🐙
 
-Open-source projects below are categorized and **sorted by GitHub Stars_Count in descending order** within each sub-category.
+Open-source projects below are categorized and **sorted by GitHub_Stars_Count in descending order** within each sub-category.
 
 ### 🛡️ Certificate Authorities & Core PKI
 
